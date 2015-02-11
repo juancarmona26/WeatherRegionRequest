@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_text_username_hint">Enter Location (Spain, Mexico, etc...)</string>
+    <string name="button_get_repos">Get location</string>
+    <string name="getting_repos_for_user">Getting regions for: %s</string>
+
+</resources>
